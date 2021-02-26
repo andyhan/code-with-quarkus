@@ -1,3 +1,4 @@
+[![Build Status](https://cloud.drone.io/api/badges/andyhan/code-with-quarkus/status.svg)](https://cloud.drone.io/andyhan/code-with-quarkus)
 # code-with-quarkus project (drone demo)
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
